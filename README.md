@@ -9,7 +9,7 @@
 
 # Hi There <img src="https://raw.githubusercontent.com/RLukas2/RLukas2/refs/heads/master/assets/wave.gif" width="30px"/>
 
-My name is Ngo Hoang Tuan, a college student currently attending in VNU-HCM University of Science pursuring B.Sc in Computer Science, specialized in Software Engineering.
+My name is Ngo Hoang Tuan, a college student currently attending VNU-HCM University of Science pursuing a B.Sc in Computer Science, specializing in Software Engineering.
 
 💻 My interests lie within the field of Software Engineering and Cryptography.
 
@@ -19,8 +19,8 @@ My name is Ngo Hoang Tuan, a college student currently attending in VNU-HCM Univ
 
 # 🌟 Featured Projects
 
-- **[Orantio (Backend)](https://github.com/mobile-apcs-ntploc21/mobile-backend)** and **[Orantio (Frontend)](https://github.com/mobile-apcs-ntploc21/mobile-frontend)**: **Orantio** is a mobile app replicating the core features of Discord, developed by a four-member team: Loc, Nhan, Phuc, and me. The app offers user authentication, server management with hierarchical roles, categorized channels, and direct messaging for real-time communication. The backend, built with TypeScript, utilizes Mongoose for database operations, Apollo Server (GraphQL) for efficient data querying, and AWS for file storage and hosting. The frontend is developed using React and Expo, providing a responsive, mobile-friendly experience.
-- **[Minesweeper](https://github.com/RLukas2/minesweeper)**: **Minesweeper** is a C++ project trying to rebuilt the old fashion Minesweeper game. Giving users options to set the seed, difficulty, custom number of rows, columns and bombs, ensuring fun and customizability.
+- **[Orantio (Backend)](https://github.com/mobile-apcs-ntploc21/mobile-backend)** and **[Orantio (Frontend)](https://github.com/mobile-apcs-ntploc21/mobile-frontend)**: **Orantio** is a mobile app replicating the core features of Discord, developed by a four-member team: Loc, Nhan, Phuc, and me. The app offers user authentication, server management with hierarchical roles, categorized channels, and direct messaging for real-time communication. The backend, built with TypeScript, utilizes Mongoose for database operations, Apollo Server (GraphQL) for efficient data querying, and AWS for file storage and hosting. The front end is developed using React and Expo, providing a responsive, mobile-friendly experience.
+- **[Minesweeper](https://github.com/RLukas2/minesweeper)**: **Minesweeper** is a C++ project trying to rebuilt the old fashion Minesweeper game. Giving users options to set the seed, difficulty, and custom number of rows, columns, and bombs, ensuring fun and customizability.
 
 # 📈 My GitHub stats
 
