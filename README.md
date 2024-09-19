@@ -5,9 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=3000&pause=500&vCenter=true&multiline=true&width=650&height=140&lines=%24+whoami;Ngo+Hoang+Tuan" alt="Title GitHub Readme" />
   </a>
 </h1>
-
 <br>
-
 # Hi There <img src="https://raw.githubusercontent.com/RLukas2/RLukas2/refs/heads/master/assets/wave.gif" width="30px"/>
 
 My name is Ngo Hoang Tuan, a college student currently attending in VNU-HCM University of Science pursuring B.Sc in Computer Science, specialized in Software Engineering.
@@ -37,9 +35,11 @@ My name is Ngo Hoang Tuan, a college student currently attending in VNU-HCM Univ
 
 # 👨‍💻 Repositories
 
-
-<a href="https://github.com/RLukas2?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
+<p align="center">
+  <a href="https://github.com/RLukas2?tab=repositories">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</p>
 
 ### <p align="center">⚙️ My development environment </p>
 
